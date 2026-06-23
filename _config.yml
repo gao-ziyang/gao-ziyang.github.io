@@ -23,13 +23,13 @@ repository               : "Ziyang666Gao/ziyang666gao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Ziyang Gao"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student in Communication Engineering. CV available upon request."
+  bio              :
   location         : "Nanjing, China"
-  employer         : "Nanjing University of Science and Technology"
-  uri              : https://ziyang666gao.github.io
+  employer         : "NJUST"
+  uri              :
   email            : "gziyang276@gmail.com"
 
   # Academic websites

@@ -37,3 +37,66 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+/* Personal homepage refinements */
+@media (min-width: 925px) {
+  #main,
+  .masthead__inner-wrap {
+    max-width: 1080px !important;
+  }
+
+  #main {
+    display: grid;
+    grid-template-columns: 220px minmax(0, 720px);
+    column-gap: 64px;
+    align-items: start;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .sidebar {
+    float: none !important;
+    grid-column: 1;
+    width: auto !important;
+    max-width: 220px !important;
+    position: sticky !important;
+    top: 4.5rem;
+    height: auto !important;
+    overflow-y: visible !important;
+    padding-top: 0 !important;
+  }
+
+  .page {
+    float: none !important;
+    grid-column: 2;
+    width: auto !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+  }
+
+  .masthead__inner-wrap {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .masthead__menu-item--lg {
+    min-width: 284px;
+    padding-right: 0;
+  }
+}
+
+.page__title {
+  margin-bottom: 1.2rem;
+}
+
+.page__content h1 {
+  margin-top: 1.6em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid var(--global-border-color);
+  font-size: 1.45em;
+}
+
+.author__urls a[href^="mailto:"] {
+  overflow-wrap: anywhere;
+}
+/* End personal homepage refinements */
