@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "中文"
+title: "关于"
 permalink: /zh/
 author_profile: true
+lang: zh
+translation_url: /
 ---
-
-[English version](/)
 
 我是 **Ziyang Gao**，南京理工大学电子工程与光电技术学院通信工程专业本科生。
 

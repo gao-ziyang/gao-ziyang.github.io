@@ -1,5 +1,5 @@
 # The following is the order of the links in the header of the website.
-main:
+main_en:
   - title: "About"
     url: /
 
@@ -9,5 +9,12 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "中文"
+main_zh:
+  - title: "关于"
     url: /zh/
+
+  - title: "项目"
+    url: /zh/projects/
+
+  - title: "简历"
+    url: /zh/cv/

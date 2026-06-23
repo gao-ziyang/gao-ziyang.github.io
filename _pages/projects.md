@@ -3,6 +3,8 @@ layout: single
 title: "Projects"
 permalink: /projects/
 author_profile: true
+lang: en
+translation_url: /zh/projects/
 ---
 
 This page lists selected engineering and research-oriented projects. Detailed repositories, figures, and technical reports will be added after public materials are cleaned and organized.

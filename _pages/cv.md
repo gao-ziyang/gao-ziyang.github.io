@@ -3,6 +3,8 @@ layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
+lang: en
+translation_url: /zh/cv/
 redirect_from:
   - /resume
 ---
