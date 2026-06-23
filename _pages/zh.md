@@ -7,7 +7,7 @@ lang: zh
 translation_url: /
 ---
 
-我是 **Ziyang Gao**，南京理工大学电子工程与光电技术学院通信工程专业本科生。
+我是 **高子阳**，南京理工大学电子工程与光电技术学院通信工程专业本科生。
 
 我的兴趣主要集中在 AI 基础设施、深度学习部署、嵌入式系统、FPGA 加速与数字信号处理。我尤其关注如何将 AI 与信号处理负载高效映射到 FPGA、GPU 和嵌入式平台上，构建更高效的软硬件协同系统。联系邮箱：[gziyang276@gmail.com](mailto:gziyang276@gmail.com)。
 
@@ -31,7 +31,8 @@ translation_url: /
 **硬件与嵌入式系统**
 
 * 使用 Verilog、Vivado、Vitis HLS 进行 FPGA 开发与板级调试
-* ARM / STM32 嵌入式控制与外设编程
+* ARM / MCU 嵌入式控制与外设编程
+* SolidWorks 机械设计与 3D 打印硬件原型搭建
 * PCB 设计、低速电路设计与硬件原型搭建
 * 板级模拟接口电路与测量系统
 

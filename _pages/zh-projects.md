@@ -25,7 +25,7 @@ translation_url: /projects/
 
 **个人贡献。** 我参与 FPGA 侧信号处理、激励生成、LMS 自适应滤波、MCU-FPGA 协同、系统集成和板级调试。
 
-**工具 / 平台。** Verilog、Vivado、FPGA、AD/DA 时序控制、LMS 自适应滤波、STM32 / MCU-FPGA 通信。
+**工具 / 平台。** Verilog、Vivado、FPGA、AD/DA 时序控制、LMS 自适应滤波、MCU-FPGA 通信。
 
 **结果 / 状态。** 项目形成了可工作的 FPGA 电路探索与实时信号处理系统，并支撑了全国大学生电子设计竞赛 2025 年全国一等奖成果。
 

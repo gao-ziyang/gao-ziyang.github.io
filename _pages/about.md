@@ -33,7 +33,8 @@ My interests lie in AI infrastructure, deep learning deployment, embedded system
 **Hardware and Embedded Systems**
 
 * FPGA development with Verilog, Vivado, Vitis HLS, and board-level debugging
-* ARM / STM32 embedded control and peripheral programming
+* ARM / MCU embedded control and peripheral programming
+* SolidWorks mechanical design and 3D-printed hardware prototyping
 * PCB design, low-speed circuit design, and hardware prototyping
 * Board-level analog interface circuits and measurement systems
 

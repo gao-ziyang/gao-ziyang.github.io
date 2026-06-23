@@ -25,7 +25,7 @@ This page lists selected engineering and research-oriented projects. Detailed re
 
 **My Contributions.** I worked on FPGA-side signal processing, excitation generation, LMS adaptive filtering, MCU-FPGA cooperation, system integration, and board-level debugging.
 
-**Tools / Platform.** Verilog, Vivado, FPGA, AD/DA timing control, LMS adaptive filtering, STM32 / MCU-FPGA communication.
+**Tools / Platform.** Verilog, Vivado, FPGA, AD/DA timing control, LMS adaptive filtering, MCU-FPGA communication.
 
 **Results or Status.** The project formed a working FPGA-based circuit exploration system and contributed to the 2025 National First Prize in the National Undergraduate Electronic Design Contest.
 
