@@ -7,16 +7,6 @@ lang: en
 translation_url: /zh/projects/
 ---
 
-## ZYNQ-7020 GEMM Accelerator
-
-**Overview.** An FPGA-based accelerator exploration project using Vitis HLS on ZYNQ-7020. It focuses on INT8 GEMM, instruction-level control, shared scheduling, and mapping of CNN and Transformer submodules onto a resource-constrained FPGA platform.
-
-**My Contributions.** I worked on accelerator control flows, shared GEMM scheduling, descriptor-based execution for Conv/QKV-related submodules, and functional sanity tests against software reference results.
-
-**Tools / Platform.** ZYNQ-7020, Vitis HLS, Vivado, C/C++, HLS C, Python, AXI-Lite, AXI Master.
-
-**Results or Status.** Ongoing research and engineering exploration. Current baselines include GEMM-only and all-accelerator testing flows; selected large GEMM cases reached around 9-11 MAC/cycle.
-
 ## FPGA-based LMS Adaptive Filtering System
 
 **Overview.** A real-time FPGA signal processing system for unknown circuit model exploration, developed as a National Undergraduate Electronic Design Contest project.

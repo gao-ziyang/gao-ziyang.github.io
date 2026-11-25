@@ -7,16 +7,6 @@ lang: zh
 translation_url: /projects/
 ---
 
-## ZYNQ-7020 GEMM Accelerator
-
-**项目概述。** 基于 ZYNQ-7020 与 Vitis HLS 的 FPGA 加速器探索项目，关注 INT8 GEMM、指令级控制、共享调度，以及 CNN 和 Transformer 相关子模块在资源受限 FPGA 平台上的映射。
-
-**个人贡献。** 我参与了加速器控制流设计、共享 GEMM 调度、Conv/QKV 相关子模块的描述符式执行，以及与软件参考结果对比的功能正确性测试。
-
-**工具 / 平台。** ZYNQ-7020、Vitis HLS、Vivado、C/C++、HLS C、Python、AXI-Lite、AXI Master。
-
-**结果 / 状态。** 这是一个仍在推进的研究与工程探索项目。目前已有 GEMM-only 和 all-accelerator 测试流程；部分大规模 GEMM case 达到约 9-11 MAC/cycle。
-
 ## FPGA-based LMS Adaptive Filtering System
 
 **项目概述。** 面向未知电路模型探索的实时 FPGA 信号处理系统，来源于全国大学生电子设计竞赛项目。

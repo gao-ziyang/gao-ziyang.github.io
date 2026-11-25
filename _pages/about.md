@@ -16,7 +16,7 @@ Hi, here is **Ziyang Gao**, an undergraduate student in Communication Engineerin
 
 I work on implementing AI and signal processing algorithms on FPGAs, GPUs, and embedded platforms. I also develop web applications across the frontend and backend, and I am interested in mobile app development.
 
-Primary email [gziyang276@gmail.com](mailto:gziyang276@gmail.com) · Alternate email [18770932544@163.com](mailto:18770932544@163.com)
+Email [gziyang276@gmail.com](mailto:gziyang276@gmail.com) & [18770932544@163.com](mailto:18770932544@163.com)
 
 # Research and Engineering Interests
 
@@ -35,26 +35,19 @@ Primary email [gziyang276@gmail.com](mailto:gziyang276@gmail.com) · Alternate e
 
 **Programming and Software Development**
 
-* Build web interfaces with JavaScript, Vue 3, and Element Plus, and connect them to backend services using Axios
-* Develop REST APIs with Java and Spring Boot, and access MySQL databases using MyBatis-Plus
+* HTML, CSS, JavaScript
+* Spring Boot, Java, MyBatis, MySQL
 * Program in Python, C, and C++, develop on Linux, and use Git for version control
 
 **Hardware and Embedded Systems**
 
-* FPGA development with Verilog, Vivado, Vitis HLS, and board-level debugging
+* FPGA development and board-level debugging with Verilog, HLS, and SpinalHDL
 * ARM / MCU embedded control and peripheral programming
 * SolidWorks mechanical design and 3D-printed hardware prototyping
 * PCB design, low-speed circuit design, and hardware prototyping
 * Board-level analog interface circuits and measurement systems
 
-**Signal Processing and Algorithms**
-
-* Digital signal processing, control, and image processing algorithms, including FFTs, LMS filtering, and PID control
-
 # Selected Projects
-
-* **ZYNQ-7020 GEMM Accelerator**  
-  An FPGA-based accelerator project using Vitis HLS on ZYNQ-7020. The project explores instruction-level control, shared GEMM scheduling, and mapping of CNN and Transformer submodules onto a resource-constrained FPGA platform.
 
 * **FPGA-based LMS Adaptive Filtering System**  
   A real-time FPGA signal processing system for unknown circuit model exploration. The system integrates excitation generation, AD/DA timing control, LMS adaptive filtering, and MCU-FPGA cooperation.
@@ -62,13 +55,13 @@ Primary email [gziyang276@gmail.com](mailto:gziyang276@gmail.com) · Alternate e
 * **AI Titration Automation System**  
   An automated titration system based on computer vision, embedded control, and custom hardware design. I designed the overall hardware architecture, participated in mechanical structure design with SolidWorks and 3D-printed parts, and integrated visual endpoint detection with closed-loop injection control.
 
-* **Robotic Tic-Tac-Toe (2024)**<br>
-  I led the team, designed and integrated the system, and developed the Python vision module. The device plays against a human on a physical board and puts misplaced pieces back in position. It won first prize in the 2024 Jiangsu Undergraduate Electronic Design Contest.
+* **Robotic Tic-Tac-Toe**<br>
+  I led the team, designed and integrated the system, and developed the Python vision module. The device plays against a human on a physical board and puts misplaced pieces back in position.
 
 # Education
 
 * **University of Science and Technology of China**, Software Engineering, 2027.09-2030.06
-* **Nanjing University of Science and Technology**, Communication Engineering, 2023.09-2027.06 (School of Electronic Engineering and Optoelectronic Technology)
+* **Nanjing University of Science and Technology**, Communication Engineering, 2023.09-2027.06
 
 # Honors
 
