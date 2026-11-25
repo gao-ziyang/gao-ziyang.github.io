@@ -6,15 +6,9 @@ main_en:
   - title: "Projects"
     url: /projects/
 
-  - title: "CV"
-    url: /cv/
-
 main_zh:
   - title: "关于"
     url: /zh/
 
   - title: "项目"
     url: /zh/projects/
-
-  - title: "简历"
-    url: /zh/cv/

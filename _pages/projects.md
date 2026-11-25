@@ -7,8 +7,6 @@ lang: en
 translation_url: /zh/projects/
 ---
 
-This page lists selected engineering and research-oriented projects. Detailed repositories, figures, and technical reports will be added after public materials are cleaned and organized.
-
 ## ZYNQ-7020 GEMM Accelerator
 
 **Overview.** An FPGA-based accelerator exploration project using Vitis HLS on ZYNQ-7020. It focuses on INT8 GEMM, instruction-level control, shared scheduling, and mapping of CNN and Transformer submodules onto a resource-constrained FPGA platform.
@@ -37,4 +35,14 @@ This page lists selected engineering and research-oriented projects. Detailed re
 
 **Tools / Platform.** Python, PyTorch, customized YOLOv8-based visual model, embedded microcontroller control, serial communication, SolidWorks, 3D printing, hardware prototyping.
 
-**Results or Status.** Applied AI and automation prototype; public code, cleaned figures, and detailed technical materials are not yet posted.
+**Results or Status.** The prototype detects the titration endpoint and controls reagent delivery automatically.
+
+## Robotic Tic-Tac-Toe
+
+**Overview.** The device plays tic-tac-toe against a person on a physical board. A camera reads the board, a microcontroller selects the next move, and a mechanism driven by stepper and servo motors picks up and places pieces. The device can also restore the board after a piece is moved by mistake.
+
+**My Contributions.** As team lead, I designed and integrated the system and independently developed its Python vision module. I estimated the board pose and mapped the nine squares to image coordinates, then used Lab color statistics to identify the contents of each square. I also helped test the microcontroller logic and the mechanism for moving pieces.
+
+**Tools / Platform.** Python, embedded microcontroller, stepper motors, servo motors.
+
+**Results or Status.** The project won a provincial first prize in the 2024 Jiangsu Undergraduate Electronic Design Contest.
